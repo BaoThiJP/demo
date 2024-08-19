@@ -1,6 +1,9 @@
-streamlit
 numpy
 pandas
 matplotlib
 seaborn
+streamlit
+gensim
 scikit-learn
+underthesea
+scipy
